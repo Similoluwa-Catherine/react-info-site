@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App ps-4 pe-4">
-      <main className="App-main ps-lg-5 pt-5">
+      <main className="App-main ps-lg-4 pt-5">
         <h1 className="mb-3">Fun facts about React</h1>
         <ul className="ms-2">
           <li className="mb-2">Was first released in 2013</li>
